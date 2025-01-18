@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Divergent.Customers.API": {
-      "commandName": "Project",
-      "applicationUrl": "http://localhost:20186"
-    }
-  }
-}
